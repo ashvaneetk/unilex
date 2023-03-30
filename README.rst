@@ -68,6 +68,7 @@ Credits
 Keywords
 --------
 - taxonomy software
+cmd edit by aryen
 - thesaurus software
 - visual thesaurus
 - thinkmap visual thesaurus
